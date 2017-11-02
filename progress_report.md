@@ -1,10 +1,12 @@
 # Progress Report
 
 ## November 2, 2017
-- It won't let me commit my jupyter notebook file, but everything else seems to be committing fine, so I'll just have to figure that out soon.
+- It won't let me commit my jupyter notebook file, but everything else seems to be committing fine, so I'll just have to figure that out soon. (fixed)
 - Still trying to figure out how to know if the tweet contains a photo or not?
 - suddenly having issues with the 'cat_tweets.csv' file, but the dog file is fine. I'll see what I can do there.
 - finished the bar graph and then started working with location, but it went weird so I decided to try looking at it again a little later.
+- added timezone information
+- realized a big issue and I have to restart my data storing, I was wondering why I was having so many issues... I forgot about the fact that tweets themselves can have a lot of special characters in them... commas included and that is screwing with everything... I think that the problem is really only in the twitter post itself and the bios. (people like to format fancy) so the easiest way to add in token count to my df and if needed restore tweets by ID # later.
 
 ## November 1, 2017  
 - fixed the committing issue.
