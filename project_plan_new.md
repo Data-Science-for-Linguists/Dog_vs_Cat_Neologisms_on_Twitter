@@ -1,5 +1,5 @@
 # Project Plan Take 2
-###### Last Updated October 28, 2017  
+###### Last Updated November 2, 2017  
 Margaret Jones (mmj32)  
 3 October 2017  
 Data Science for Linguists  
@@ -16,9 +16,10 @@ Final Project
 ## Plan
 - I will use tweepy to gather data from Twitter on posts people have about cats and dogs.
 - Then I will compare with numpy and matplotlib to show statistics and compare the data.
-  - Compare when the neologism developed.
-  - if a picture is present on the post or not
+  - Compare number of retweets and favorites
+  - if a picture is present on the post or not (?)
   - Compare location, number, and timezone.
+    - If there is a particular place that it more likely to post under that hashtag than others.
   - Average length of the posts will also be compared.
   - If there is a particular user that posts more than others.
 - This will be completed in a jupyter notebook that will also be found in this repository.

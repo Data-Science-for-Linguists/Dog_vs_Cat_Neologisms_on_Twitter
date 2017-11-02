@@ -1,5 +1,41 @@
 # Progress Report
 
+## November 2, 2017
+- It won't let me commit my jupyter notebook file, but everything else seems to be committing fine, so I'll just have to figure that out soon.
+- Still trying to figure out how to know if the tweet contains a photo or not?
+- suddenly having issues with the 'cat_tweets.csv' file, but the dog file is fine. I'll see what I can do there.
+- finished the bar graph and then started working with location, but it went weird so I decided to try looking at it again a little later.
+
+## November 1, 2017  
+- fixed the committing issue.
+- added a lot more to the code.
+- haven't really started analysis yet, I really haven't had the time. Did a lot of cleaning with the data.
+- added to the dataset file on my local drive.
+- changed the counter to just the mean of the row and added in retweets
+- Question that has risen: if I'm not allowed to share anything but the ID, what is okay to be shown code-wise in my jupyter notebook?
+
+## October 29, 2017  
+- found out I'm having issues committing changes to GitHub? None of my changes since the first progress report have been committed.
+- Added more tweets to dataset
+- made favorite counter
+
+## October 28, 2017  
+- updated the project plan to have data sharing after figuring out the licensing stuff, finally.
+- I also added in the stuff about plurality that Narae mentioned because it is unclear how Twitter handles plurals
+
+## October 22, 2017
+-  I made a few improvements on existing code. I stored some more tweets to get a bigger corpus.
+- Still having computer trouble
+- Added tweets to dataset
+
+## October 21, 2017  
+- added more tweets to the dataset
+- I didn't have my computer for a while so progress until now was static.
+
+## October 16, 2017  
+- Added a bit
+- Started storing Tweets so that I can have a larger dataset
+
 ## October 12, 2017
 - Regenerated the tokens and now things are finally working!
 
