@@ -1,5 +1,14 @@
 # Progress Report
 
+## November 6, 2017
+- more data collection
+- creation of pie charts and a few more bar plots.
+- interesting changes noted. cats suddenly gained a lot in popularity, but not in number. What happened?
+
+## November 5, 2017
+- more data collection.
+- interesting results that essentially flipped everything around, very interesting.
+
 ## November 2, 2017
 - It won't let me commit my jupyter notebook file, but everything else seems to be committing fine, so I'll just have to figure that out soon. (fixed)
 - Still trying to figure out how to know if the tweet contains a photo or not?
