@@ -1,5 +1,26 @@
 # Progress Report
 
+## November 21, 2017
+- data collection (for the last time)
+- updated all of the "statistics" throughout, since I'm done collecting data (it hasn't changed much over the past few updates) I will not need to re-update these until I gather more data again
+- did a bunch of small stuff to make things read better and work better- made the bar plots
+- started work on figuring out the most popular hashtag (popular meaning most commonly used with the highest amount of retweets/favorites)
+
+## November 17, 2017
+- data collection
+- got all of the most popular tweet locations, but need to figure out a better way to display them
+
+## November 15, 2017
+- data collection
+- started work on where the most popular tweets are.
+- cats have progressively gained in popularity.
+
+## November 12, 2017
+- more data collection
+
+## November 10, 2017
+- continued data collection
+
 ## November 6, 2017
 - more data collection
 - creation of pie charts and a few more bar plots.
