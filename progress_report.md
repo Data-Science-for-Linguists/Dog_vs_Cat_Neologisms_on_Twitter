@@ -1,7 +1,33 @@
 # Progress Report
 
+## November 30, 2017
+- updated the README file
+
+## November 28, 2017
+- presented
+- gathered data (screwed up everything, again. I still need to go through and fix this again)
+- fixed the LICENSE file
+- made a LICENSE_notes file
+
+## November 27, 2017
+- gathered data
+- finished the LIVE file
+- finished the powerpoint
+- gathered data for the last time
+- cleaned up a bit more
+
+## November 26, 2017
+- decided on a powerpoint
+- started the LIVE file so that I can include the class and show them how I gathered and cleaned my data in real time
+- gathered data
+
+## November 22, 2017
+- Beginning work for my presentation.
+- gathered more data
+- cleaned up a little
+
 ## November 21, 2017
-- data collection (for the last time)
+- data collection
 - updated all of the "statistics" throughout, since I'm done collecting data (it hasn't changed much over the past few updates) I will not need to re-update these until I gather more data again
 - did a bunch of small stuff to make things read better and work better- made the bar plots
 - started work on figuring out the most popular hashtag (popular meaning most commonly used with the highest amount of retweets/favorites)
