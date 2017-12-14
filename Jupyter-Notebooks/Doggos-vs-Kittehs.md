@@ -8,7 +8,7 @@ Data Science for Linguists
 # Table of Contents 
 - [Data collection](#lets-get-that-data)  
 - [Data Frame Creation](#creating-data-frames)  
-- [Favorites vs. Retweets](##lets-attempt-some-analysis)  
+- [Favorites vs. Retweets](#lets-attempt-some-analysis)  
 - [Finding the Most Popular Places](#lets-look-at-location-and-find-the-most-popular-place-for-cat-posts-vs-dog-posts)  
 - [Where the Tweets are Coming From by Location](#but-lets-go-a-little-deeper)
 - [Where the Tweets are Coming From by Time Zone](#moving-on-to-timezone)
