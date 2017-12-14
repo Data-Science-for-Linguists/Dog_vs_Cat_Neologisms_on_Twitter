@@ -3,11 +3,12 @@
 Margaret Jones (mmj32)  
 Univeristy of Pittsburgh  
 Data Science for Linguists  
+14 December 2017
 
 # Table of Contents 
 - [Data collection](#lets-get-that-data)  
 - [Data Frame Creation](#creating-data-frames)  
-- [First Analysis - Favorites vs. Retweets](##lets-attempt-some-analysis.)  
+- [Favorites vs. Retweets](##lets-attempt-some-analysis)  
 - [Finding the Most Popular Places](#lets-look-at-location-and-find-the-most-popular-place-for-cat-posts-vs-dog-posts)  
 - [Where the Tweets are Coming From by Location](#but-lets-go-a-little-deeper)
 - [Where the Tweets are Coming From by Time Zone](#moving-on-to-timezone)
@@ -329,7 +330,7 @@ tdog_df.size
 
 
 
-## Lets attempt some analysis.  
+## Lets attempt some analysis  
 - again not completely sure how much I can share, so for now I'm only going to use the most recently gathered data. (The only rule is "as much as necissary but no more" and I don't really know what can be classified as "necessary").
 
 

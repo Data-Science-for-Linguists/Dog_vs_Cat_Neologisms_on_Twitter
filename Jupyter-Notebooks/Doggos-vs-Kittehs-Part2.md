@@ -3,12 +3,14 @@
 Margaret Jones (mmj32)  
 Univeristy of Pittsburgh  
 Data Science for Linguists  
+14 December 2017
 
 ## Table of Contents  
 - [Getting the data](#pulling-in-the-data)  
 - [A Quick Review](#a-quick-review)  
 - [Comparison by Hashtag](#lets-look-specifically-at-hashtag)  
-- [Pie Charts](##some-more-exploding-pie-charts)
+- [Pie Charts: Retweets](#retweet-neologism-comparison)
+- [Pie Charts: Favorites](#favorite-neologism-comparison)
 
 # Pulling in the data
 
@@ -675,6 +677,8 @@ hdoggo_fav
 
 ### Some more exploding pie charts
 
+## Retweet Neologism Comparison
+
 
 ```python
 # Pie chart, where the slices will be ordered and plotted counter-clockwise:
@@ -731,7 +735,7 @@ plt.show()
 
 
 
-![png](output_19_2.png)
+![png](output_20_2.png)
 
 
 ### okay so my means of retweets, cat is the most populat hashtag by far. But let's remove it and see how the others distribute...
@@ -789,7 +793,7 @@ plt.show()
 
 
 
-![png](output_21_2.png)
+![png](output_22_2.png)
 
 
 ### So other than #cat it seems like the dog hashtags retweet more than the cat tweets  
@@ -848,7 +852,7 @@ plt.show()
 
 
 
-![png](output_23_2.png)
+![png](output_24_2.png)
 
 
 
@@ -880,13 +884,15 @@ plt.show()
 
 
 
-![png](output_23_5.png)
+![png](output_24_5.png)
 
 
 ### So for cat retweets (excluding #cat) kitteh and toebeans seem to share the same percentage, and then cats is the second most popular  
 ### For dogs, it is ordered as such: #doge, #dog, #dogs, #doggo
 
 ## Let's do the same thing but with favorites
+
+## Favorite Neologism Comparison
 
 
 ```python
@@ -944,7 +950,7 @@ plt.show()
 
 
 
-![png](output_26_2.png)
+![png](output_28_2.png)
 
 
 ## For this is it pretty clear that the dogs get more favorites 
@@ -995,7 +1001,7 @@ plt.show()
 
 
 
-![png](output_28_2.png)
+![png](output_30_2.png)
 
 
 ## Scale: #cat, #toebeans, #kitteh, #cats  
@@ -1046,7 +1052,7 @@ plt.show()
 
 
 
-![png](output_30_2.png)
+![png](output_32_2.png)
 
 
 ### Ordering: #doggo, #dog, #doge, #dogs
