@@ -5,14 +5,14 @@ Univeristy of Pittsburgh
 Data Science for Linguists  
 
 # Table of Contents 
-- [Data collection](#let's-get-that-data!)  
+- [Data collection](#lets-get-that-data)  
 - [Data Frame Creation](#creating-data-frames)  
-- [First Analysis - Favorites vs. Retweets](##let's-attempt-some-analysis.)  
-- [Finding the Most Popular Places](#let's-look-at-location-and-find-the-most-popular-place-for-cat-posts-vs.-dog-posts)  
-- [Where the Tweets are Coming From by Location](#but-let's-go-a-little-deeper)
+- [First Analysis - Favorites vs. Retweets](##lets-attempt-some-analysis.)  
+- [Finding the Most Popular Places](#lets-look-at-location-and-find-the-most-popular-place-for-cat-posts-vs-dog-posts)  
+- [Where the Tweets are Coming From by Location](#but-lets-go-a-little-deeper)
 - [Where the Tweets are Coming From by Time Zone](#moving-on-to-timezone)
 
-## Let's Get That Data!
+## Lets Get That Data
 
 
 ```python
@@ -329,7 +329,7 @@ tdog_df.size
 
 
 
-## Let's attempt some analysis.  
+## Lets attempt some analysis.  
 - again not completely sure how much I can share, so for now I'm only going to use the most recently gathered data. (The only rule is "as much as necissary but no more" and I don't really know what can be classified as "necessary").
 
 
@@ -884,7 +884,7 @@ plt.show()
 ### It loks like dog posts are more likely to be favorites on average than cat posts on Twitter, but cat posts are more likelt to be retweeted? - this is an interesting change 
 ### It is also clear that retweeting is much more common than favoriting posts
 
-## Let's look at location and find the most popular place(s) for cat posts vs. dog posts
+## Lets look at location and find the most popular place for cat posts vs dog posts
 
 
 ```python
@@ -1440,7 +1440,7 @@ pop_dog.describe()
 - it looks like the cat df has at least 1 extremely popular post with over 30,000 rt
 - the most popular dog post is 1/5 of that
 
-## But let's go a little deeper
+## But lets go a little deeper
 
 
 ```python

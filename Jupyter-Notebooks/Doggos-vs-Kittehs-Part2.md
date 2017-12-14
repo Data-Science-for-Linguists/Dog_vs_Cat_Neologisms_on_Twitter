@@ -7,7 +7,8 @@ Data Science for Linguists
 ## Table of Contents  
 - [Getting the data](#pulling-in-the-data)  
 - [A Quick Review](#a-quick-review)  
-- [Comparison by Hashtag](#let's-look-specifically-at-hashtag)
+- [Comparison by Hashtag](#lets-look-specifically-at-hashtag)  
+- [Pie Charts](##some-more-exploding-pie-charts)
 
 # Pulling in the data
 
@@ -256,7 +257,7 @@ plt.show()
 ![png](output_9_7.png)
 
 
-# Let's look specifically at hashtag
+# Lets look specifically at hashtag
 
 ### Cats first
 
