@@ -3,7 +3,7 @@
 ## December 13, 2017
 - finished everything up!
 - wrote the write up
-- 
+- updated README
 
 ## December 10, 2017
 - clean, clean, clean, clean
@@ -11,6 +11,7 @@
 
 ## December 6, 2017
 - more pie charts! Yay!
+- Added powerpoint slides
 
 ## December 3, 2017
 - Started working to try and clean everything up
