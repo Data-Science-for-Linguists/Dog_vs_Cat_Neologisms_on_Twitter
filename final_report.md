@@ -16,7 +16,12 @@ For this project I was inspired by one of the homework assignments we had in our
 
 ## Background  
 Twitter first started in 2006, but has really grown in popularity since then. In 2011, it really took off and can continued to get bigger ever since. Like many other social media platforms, it allows users to post their own content and display it publicly online. You can search for posts of a related theme by using hashtags.   
-In the more recent years (in the time of the original grumpy cat and doge), people have begun to create a bunch of new words in reference to specific things. Dogs and cats, however, seem to have an ever increasing number of neologisms all sparking from an internet meme in the given category. (Cat - grumpy cat; Dog - doge)
+In the more recent years (in the time of the original grumpy cat and doge), people have begun to create a bunch of new words in reference to specific things. Dogs and cats, however, seem to have an ever increasing number of neologisms all sparking from an internet meme in the given category. (Cat - grumpy cat; Dog - doge)  
+
+While working on this project, I ran into a few set backs. Here are a few:
+- Tweepy. As great as tweepy is, working with it can get very difficult sometimes. I often needed to regenerate my consumerKey and consumerSecret to get it to continue working.
+- Storing the bios will screw up your DataFrames. The bios often have a lot of special characters or emojis and these will throw things completely out of order.
+- The data changes every  seconds so you cannot actually make any concrete conclusions because it could change within the next 5 minutes.
 
 ## Data Sourcing  
 In order to get the data necessary, I had to scrape Twitter using tweepy to connect to the twitter API and then search by the specific hashtags I desired. Tweepy was a really nice tool and makes things incredibly easy to clean, so this worked out very well. The only trouble here is that you cannot just go and scrape all of the dog related tweets or cat related tweets. The twitter API is picky about how many tweets it will let you take and any given time. So you have to gather your data over the span of several weeks to months and be sure to collect at a bunch of different times of the day. You also have to be extremely careful with how you store the data from this. For example, you're no allowed to store the actual tweet itself, only information about it (like the tweet ID). Which means if you want to look up a tweet later, you have to do it individually with a function by tweet ID (so not impossible just time consuming).
