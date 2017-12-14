@@ -1,5 +1,21 @@
 # Progress Report
 
+## December 13, 2017
+- finished everything up!
+- wrote the write up
+- 
+
+## December 10, 2017
+- clean, clean, clean, clean
+- updated README
+
+## December 6, 2017
+- more pie charts! Yay!
+
+## December 3, 2017
+- Started working to try and clean everything up
+- added linguistic stuff?
+
 ## November 30, 2017
 - updated the README file
 
